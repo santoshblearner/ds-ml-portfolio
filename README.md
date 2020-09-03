@@ -6,7 +6,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
-- ### Machine Learning
+- ### Machine Learning Projects
 
 	- [Data Exploration](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/ML%20Projects/Exploration/Titanic%20Dataset%20from%20kaggle-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 	- [Model Evaluation & Validation](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/ML%20Projects/Model%20Evaluation%20%26%20Validation/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
@@ -19,7 +19,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
-- ### Natural Language Processing
+- ### Natural Language Processing Projects
 
 	- [3-way Sentiment Analysis for Tweets](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/NLP%20Projects/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
 
@@ -27,7 +27,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	_Tools: NLTK, scikit_
 
-- ### Data Analysis and Visualisation
+- ### Python Data Analysis and Visualisation Projects
 	- __Python__
 		- [Stock Market Analysis for Tech Stocks](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Other%20Python%20Projects/Tech%20Stock%20Market%20Analysis.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 		- [2016 US General Election Poll Data Analysis](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Other%20Python%20Projects/US%202016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
@@ -37,7 +37,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	
 
-- ### Micro Projects: 
+- ### Other Small projects: 
 
 	- __Python__
 		- [ML with Linear Regression](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Other%20Small%20ML%20Projects/ML%20with%20Logistic%20Regression.ipynb): Using Linear Regression to understand which one of web or mobile app experience has greater impact on the customer .
