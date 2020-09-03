@@ -26,7 +26,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Scalable Walkability Analysis of Melbourne](https://github.com/santoshblearner/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		- [Titanic Dataset - Exploratory Analysis](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 		- [Stock Market Analysis for Tech Stocks](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 		- [2016 US General Election Poll Data Analysis](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
