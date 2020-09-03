@@ -1,8 +1,8 @@
 # Data Science Portfolio
-This is my data science portfolio containing hobby projects. 
+This is my data science portfolio showcasing my projects I worked on as a hobby or learning new skills.
 
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+
 
 ## Contents
 
@@ -47,4 +47,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [Movie Recommendations using Recommender Systems](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Other%20Small%20ML%20Projects/ML%20Movie%20Recommendations.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
 
 	
- 
+ _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
