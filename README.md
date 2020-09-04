@@ -27,6 +27,10 @@ This is my data science portfolio showcasing my projects I worked on as a hobby 
 
 	_Tools: NLTK, scikit_
 
+
+- ### Spark MLlib projects
+	- [Walmart Stock Analysis](https://github.com/santoshblearner/ds-ml-portfolio/tree/master/Spark%20MLlib): Analysis of Walmart stocks data using Spark Dataframe APIs and Spark machine learning libraries.
+
 - ### Python Data Analysis and Visualisation Projects
 	- __Python__
 		- [Stock Market Analysis for Tech Stocks](https://github.com/santoshblearner/ds-ml-portfolio/blob/master/Other%20Python%20Projects/Tech%20Stock%20Market%20Analysis.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
