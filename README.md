@@ -29,7 +29,7 @@ This is my data science portfolio showcasing my projects I worked on as a hobby 
 
 
 - ### Spark MLlib projects
-	- [Walmart Stock Analysis](https://github.com/santoshblearner/ds-ml-portfolio/tree/master/Spark%20MLlib): Analysis of Walmart stocks data using Spark Dataframe APIs and Spark machine learning libraries.
+	- [Walmart Stock Analysis](https://github.com/santoshblearner/ds-ml-portfolio/tree/master/Spark%20Projects/Spark%20MLlib): Analysis of Walmart stocks data using Spark Dataframe APIs and Spark machine learning libraries.
 
 - ### Python Data Analysis and Visualisation Projects
 	- __Python__
